@@ -36,6 +36,7 @@ cb420790b7aac235287178958951a080ac3014ad38033d35377c56d2936b8366
 
 ## 使用说明
 
+- [在线图解使用说明](https://maofanyi.github.io/DouyuMonitor-Releases/)
 - [文字使用说明](docs/使用说明.md)
 - [离线图解使用说明](docs/user-guide.html)（下载后使用浏览器打开）
 
