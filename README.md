@@ -8,14 +8,14 @@
 
 ## 下载
 
-请从 [Releases](https://github.com/maofanyi/DouyuMonitor-Releases/releases/latest) 下载最新的 `海鲜水族馆-Setup-<版本>.exe`。
+请从 [Releases](https://github.com/maofanyi/DouyuMonitor-Releases/releases/latest) 下载最新的 `DouyuMonitor-Setup-<版本>.exe`。
 
 当前版本：**1.3.1**
 
 仅应信任本仓库发布的安装程序。软件目前没有 Authenticode 代码签名，Windows 首次运行时可能显示未知发布者；请在运行前核对 SHA-256。
 
 ```powershell
-Get-FileHash -Algorithm SHA256 '.\海鲜水族馆-Setup-1.3.1.exe'
+Get-FileHash -Algorithm SHA256 '.\DouyuMonitor-Setup-1.3.1.exe'
 ```
 
 1.3.1 安装包 SHA-256：
@@ -65,4 +65,3 @@ cb420790b7aac235287178958951a080ac3014ad38033d35377c56d2936b8366
 如果这个工具对你有帮助，可以自愿通过支付宝支持作者。赞助不会影响软件功能，也不代表购买商业授权。
 
 ![支付宝支持作者二维码](assets/alipay-support-qr.png)
-
