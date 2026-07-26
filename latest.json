@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1,
+  "latestVersion": "1.3.2",
+  "publishedAt": "2026-07-27",
+  "releasePage": "https://gitee.com/ntrmao/DouyuMonitor-Releases/releases#release-v1.3.2",
+  "summary": "新增后台更新检查，发现新版本时在设置按钮显示红点提示。"
+}
