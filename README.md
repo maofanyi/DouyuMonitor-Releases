@@ -8,20 +8,20 @@
 
 ## 下载
 
-请从 [Releases](https://github.com/maofanyi/DouyuMonitor-Releases/releases/latest) 下载最新的 `DouyuMonitor-Setup-1.3.3.exe`。
+请从 [Releases](https://github.com/maofanyi/DouyuMonitor-Releases/releases/latest) 下载最新的 `DouyuMonitor-Setup-1.3.4.exe`。
 
-当前版本：**1.3.3**
+当前版本：**1.3.4**
 
 仅应信任本仓库发布的安装程序。软件目前没有 Authenticode 代码签名，Windows 首次运行时可能显示未知发布者；请在运行前核对 SHA-256。
 
 ```powershell
-Get-FileHash -Algorithm SHA256 '.\DouyuMonitor-Setup-1.3.3.exe'
+Get-FileHash -Algorithm SHA256 '.\DouyuMonitor-Setup-1.3.4.exe'
 ```
 
 安装包 SHA-256：
 
 ```text
-c9f49b5b45409e46b1810a53e7ff3eca2c4c1ffb1eeeccf969cedfcef8d6a73b
+00954c2d143d69a219abefedfbac1096a58786a4076d7f1b9a4dfe426713a339
 ```
 
 ## 主要功能

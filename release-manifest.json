@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "product": "海鲜水族馆",
-  "version": "1.3.3",
-  "gitCommit": "8cb903d931975685f985e78a2ea31a1159149b32",
+  "version": "1.3.4",
+  "gitCommit": "f9ca2955551f196fc1106de3e1a8f2f6bef0627f",
   "gitTreeState": "clean",
-  "builtAtUtc": "2026-07-27T12:48:58.8720701+00:00",
+  "builtAtUtc": "2026-07-27T14:39:54.2532610+00:00",
   "releaseScope": "public",
   "installer": {
-    "fileName": "海鲜水族馆-Setup-1.3.3.exe",
-    "size": 84178076,
-    "sha256": "c9f49b5b45409e46b1810a53e7ff3eca2c4c1ffb1eeeccf969cedfcef8d6a73b"
+    "fileName": "海鲜水族馆-Setup-1.3.4.exe",
+    "size": 84169173,
+    "sha256": "00954c2d143d69a219abefedfbac1096a58786a4076d7f1b9a4dfe426713a339"
   },
   "publicPackage": {
     "fileCount": 490,
@@ -17,17 +17,17 @@
       {
         "path": "海鲜水族馆.deps.json",
         "size": 46439,
-        "sha256": "1399ecb05f4e65305e5480404aee57f827fa9c71a600e1188df5296743e8f917"
+        "sha256": "b4c1a5cc270b2bfba1a4ed0b74742e9e3b99e6f21a7d0f3da13bdae9b1911f6d"
       },
       {
         "path": "海鲜水族馆.dll",
         "size": 2787328,
-        "sha256": "fa5aa0b099ba9d40a78ffc63ee3234a125d556d9123275487cb7145f1c501999"
+        "sha256": "38aa7e7e4ea39649e5c66103ff77d1b2f705958af42b4447cb7315040078ddcf"
       },
       {
         "path": "海鲜水族馆.exe",
         "size": 239616,
-        "sha256": "879452185f1abffbddd7752ce2c34b0c959393cfecd3ee287ed22a5647a0ce43"
+        "sha256": "e64c24d14c3d8980adde8db4c13086adbee71da5e001ca72f6bc1213dd761718"
       },
       {
         "path": "海鲜水族馆.runtimeconfig.json",
@@ -247,12 +247,12 @@
       {
         "path": "DouyuMonitor.Core.dll",
         "size": 289280,
-        "sha256": "23433ef7fbc91c0e9151d3924ec684459069ed9d104195d135f3fc080a09e385"
+        "sha256": "250334df5d95979f442a6acd7a84180711be409bda01cdc798ead570034cf898"
       },
       {
         "path": "DouyuMonitor.Infrastructure.dll",
         "size": 296448,
-        "sha256": "4ebedde7cbbd36bfc7a13d1e7121f9eb830caebe0bcd667f9def7c60cc29f1ff"
+        "sha256": "83a61c987112faedf1ea3402aee917be223fbe909a8793c5257769d0fea7c585"
       },
       {
         "path": "es/Microsoft.VisualBasic.Forms.resources.dll",
@@ -467,7 +467,7 @@
       {
         "path": "guide/user-guide.html",
         "size": 1125833,
-        "sha256": "fa1d2e66a261953e71547c3288f1691465a517e3974eefe2dcd282b43202360f"
+        "sha256": "409fc1e67d50ca7ea9c4ee1e9c3ec816328d09a367f15efbe0e558e3d2c3a469"
       },
       {
         "path": "hostfxr.dll",
@@ -2467,23 +2467,23 @@
     ]
   },
   "symbols": {
-    "archivePath": "artifacts/symbols/1.3.3/8cb903d931975685f985e78a2ea31a1159149b32",
+    "archivePath": "artifacts/symbols/1.3.4/f9ca2955551f196fc1106de3e1a8f2f6bef0627f",
     "fileCount": 3,
     "files": [
       {
         "path": "海鲜水族馆.pdb",
-        "size": 268264,
-        "sha256": "32d5450bc1eeeef5260c676ebe82013762881ed868f5cc779cc632a0b8cca910"
+        "size": 268260,
+        "sha256": "5f849e2250c8a99a7bd819151a4dfd2ed02bcdbe73e742fbb2ca505bed96bb6b"
       },
       {
         "path": "DouyuMonitor.Core.pdb",
-        "size": 81664,
-        "sha256": "8228f57447a433d6382331c348d591515a707f658dcf72bebd7ace8343157d45"
+        "size": 81660,
+        "sha256": "b60a0337e6e9df42f53796b485be1971a4c2220e5689acb4f9a8a4109261858a"
       },
       {
         "path": "DouyuMonitor.Infrastructure.pdb",
         "size": 75896,
-        "sha256": "6f6008b59138d2346df8dbc1f09b5a6fb4f12d9dc41d5e532b10316524136f9c"
+        "sha256": "dba7f19d61d3a89661e1e1b6dde72d1540370202b28f27ee307d8a309db77b47"
       }
     ]
   }

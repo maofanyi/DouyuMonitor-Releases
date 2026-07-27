@@ -1,2 +1,2 @@
-c9f49b5b45409e46b1810a53e7ff3eca2c4c1ffb1eeeccf969cedfcef8d6a73b  DouyuMonitor-Setup-1.3.3.exe
-2b9caf1e3262c33f57a97fede31708cf81d141ed51d156d9c375275c219eb0a2  release-manifest.json
+00954c2d143d69a219abefedfbac1096a58786a4076d7f1b9a4dfe426713a339  DouyuMonitor-Setup-1.3.4.exe
+566cc70d6d2c0d197a71173b40bb249d56d3be8fd628fa0fbe7985dfeb8dc79f  release-manifest.json
